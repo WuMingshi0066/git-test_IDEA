@@ -20,6 +20,11 @@ public class GitTest {
     }
 
     @Test
+    public void hotFixDo() {
+        System.out.println("conflict merge --- hot-fix");
+    }
+
+    @Test
     public void masterDo() {
         System.out.println("conflict merge --- master");
     }
