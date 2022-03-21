@@ -14,4 +14,8 @@ public class GitTest {
         System.out.println("hello git in IDEA 2 !!");
     }
 
+    @Test
+    public void test2() {
+        System.out.println("ver2 - hello !!");
+    }
 }
