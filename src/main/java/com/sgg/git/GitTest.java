@@ -12,6 +12,7 @@ public class GitTest {
     public void test1() {
         System.out.println("hello git in IDEA !!");
         System.out.println("hello git in IDEA 2 !!");
+        System.out.println("ssh push to web");
     }
 
     @Test
