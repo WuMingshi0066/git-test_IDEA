@@ -18,4 +18,9 @@ public class GitTest {
     public void test2() {
         System.out.println("ver2 - hello !!");
     }
+
+    @Test
+    public void masterDo() {
+        System.out.println("conflict merge --- master");
+    }
 }
